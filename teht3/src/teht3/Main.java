@@ -27,6 +27,7 @@ public class Main {
 jolla voit esittää pöytätietokoneen kokoonpanon ja laskea sen hinnan, kun kukin komponentti 
 tietää oman hintansa.
 
+
 Idea on että tietokoneen kaikki osat ovat vaikkapa Laiteosa-rajapinnan toteuttajia. Laiteosalla on hinta.
 
 Laiteosia on erilaisia, esim:
