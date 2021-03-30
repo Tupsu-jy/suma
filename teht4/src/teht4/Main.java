@@ -29,5 +29,5 @@ Käytä ratkaisussasi Javan APIsta löytyviä Observer-rajapintaa ja Observable-
 Jos haluat käyttää jotain muuta Javan tekniikkaa, koska Observer/Observable on deprecated 
 Java 9:stä alkaen, se on ok. Vaikka Javan Observer/Observable-mekanismi on deprecated,
  sitä ei poisteta Javasta, mutta sen kehitystä ei jatketa. Sen käytölle on esitetty 
- vaihtoehtoisia tapoja.
+ vaihtoehtoisia tapoja. 
 */
