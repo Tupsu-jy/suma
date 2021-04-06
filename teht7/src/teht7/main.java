@@ -26,7 +26,7 @@ public class main {
  7.	State: Määrittele pelihahmo ja sille kolme kehitysastetta. Toteuta eri kehitysasteet
   State-mallin mukaisesti. Pelihahmo voisi olla esim. Pokemon-hahmo Charmander, jonka 
   kaksi muuta kehitysastetta ovat Charmeleon ja Charizard. Määrittele pelihahmolle vähintään
-   kolme erilaista toimintoa (metodia) siten, että käyttäytyminen riippuu pelihahmon tilasta.
+   kolme  erilaista toimintoa (metodia) siten, että käyttäytyminen riippuu pelihahmon tilasta.
 
 
 */
