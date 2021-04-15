@@ -1,4 +1,6 @@
-package teht7;
+package mario;
+
+import visitor.MarioVisitor;
 
 public class MarioConnection {
 
@@ -22,6 +24,7 @@ public class MarioConnection {
 	void throwFireball() {
 		state.throwFireball();
 	}
-//tänne accept(visitor). 
-	//sen siällä sitten state tuolta ylhäältä haetaan ja syötetään visitorin aisianmukaiselle metodille
+	public void accept(MarioVisitor visitor) {
+		state.accept(visitor);
+	}
 }
